@@ -1,0 +1,18 @@
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\Entity Proje Uygulama.exe.config
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\Entity Proje Uygulama.exe
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\Entity Proje Uygulama.pdb
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\EntityFramework.dll
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\EntityFramework.xml
+C:\Users\hakan\source\repos\Entity Proje Uygulama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity Proje Uygulama.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity_Proje_Uygulama.Form1.resources
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity_Proje_Uygulama.Properties.Resources.resources
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity Proje Uygulama.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity Proje Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity P.93CFF1BD.Up2Date
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity Proje Uygulama.exe
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity Proje Uygulama.pdb
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity_Proje_Uygulama.FrmAnaForm.resources
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity_Proje_Uygulama.FrmUrun.resources
+C:\Users\hakan\source\repos\Entity Proje Uygulama\obj\Debug\Entity_Proje_Uygulama.Frmİstatistik.resources

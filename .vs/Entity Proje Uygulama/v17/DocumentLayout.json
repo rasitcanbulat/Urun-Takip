@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|c:\\users\\hakan\\source\\repos\\entity proje uygulama\\frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|solutionrelative:frm\u0130statistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|c:\\users\\hakan\\source\\repos\\entity proje uygulama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|c:\\users\\hakan\\source\\repos\\entity proje uygulama\\frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78BAA4AC-E1AF-4F29-9512-30BAFECB3822}|Entity Proje Uygulama.csproj|solutionrelative:frmurun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:36:20.109Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUrun.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\FrmUrun.cs",
+              "RelativeDocumentMoniker": "FrmUrun.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\FrmUrun.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmUrun.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:36:09.437Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm\u0130statistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\Frm\u0130statistik.cs",
+              "RelativeDocumentMoniker": "Frm\u0130statistik.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\Frm\u0130statistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Frm\u0130statistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:10:53.965Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\hakan\\source\\repos\\Entity Proje Uygulama\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:24:32.423Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
